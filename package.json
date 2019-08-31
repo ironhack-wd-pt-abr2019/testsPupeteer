@@ -1,0 +1,19 @@
+{
+  "name": "testspupeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pruebaFuncional.js",
+  "scripts": {
+    "start":"node pruebafuncional.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  },
+  "engines": {
+    "node": "11.9.0",
+    "npm": "6.7.0"
+  }
+}
